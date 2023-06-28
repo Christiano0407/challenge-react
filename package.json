@@ -1,0 +1,14 @@
+{
+  "name": "challenge-react",
+  "version": "1.0.0",
+  "description": "first_project_React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Chris04",
+  "license": "MIT"
+}
